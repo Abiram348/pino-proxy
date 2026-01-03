@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+yfinance
+pandas
+truedata-ws
+python-dotenv
+requests
